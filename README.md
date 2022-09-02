@@ -1,9 +1,5 @@
 <h1 align="left" >Hi, I'm Aldy Revigustian</h1>
 
-
-<br/>
-
-# 📊 GitHub Stats:
 <span align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=AldyRevigustian&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
 </span>
