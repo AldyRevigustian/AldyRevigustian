@@ -1,18 +1,19 @@
-<h1 align="center">Hello 👋,  I'm Aldy Revigustian</h1>
+<h1 align="left" >Hi, I'm Aldy Revigustian</h1>
 
 
 <br/>
 
-
-
-<p align="center">
+# 📊 GitHub Stats:
+<span align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=AldyRevigustian&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
-</p>
+</span>
+ &nbsp;
+  &nbsp;
+   &nbsp;
 
-<p align="center">
+<span align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldyRevigustian&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
+</span>
 
 
 
