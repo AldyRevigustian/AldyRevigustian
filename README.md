@@ -1,6 +1,5 @@
 <h1 align='center' >
-  Hi, I'm Aldy   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Aldy Revigustian
 </h1>
 
 <br/>
