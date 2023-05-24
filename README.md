@@ -1,9 +1,3 @@
-<h1 align='center' >
-  Hello
-</h1>
-
-<br/>
-
 <p align='center'>
   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldyRevigustian&layout=compact&theme=react&hide_border=true&bg_color=2E3440&title_color=F85D7F&icon_color=F8D866" alt="AldyRevigustian's github stats"/>
   </a>
